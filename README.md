@@ -119,11 +119,3 @@ Se todos os passos forem seguidos corretamente, você terá um repositório como
 
 # Anotações:
 - Foi necessário modificar a lista "resuSltado" do arquivo "src/abrigo-animais.js", presente na linha 14 para "resultado" para obter a eficácia do programa.
-- Para testar o programa utilize os seguintes comandos:
-
-  ```bash
-  npm install
-  ```
-  ```bash
-  npm test
-  ```
